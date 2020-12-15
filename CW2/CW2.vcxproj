@@ -87,7 +87,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\VulkanSDK\1.2.154.1\Include;C:\Users\Dracops\Documents\Visual Studio 2019\Libraries\glm;C:\Users\Dracops\Documents\Visual Studio 2019\Libraries\glfw-3.3.2.bin.WIN64\include;C:\Users\Dracops\Documents\Visual Studio 2019\Libraries\stb-master</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>%VULKAN_SDK%\Include;C:\Users\Dracops\Documents\Visual Studio 2019\Libraries\glm;C:\Users\Dracops\Documents\Visual Studio 2019\Libraries\glfw-3.3.2.bin.WIN64\include;C:\Users\Dracops\Documents\Visual Studio 2019\Libraries\stb-master</AdditionalIncludeDirectories>
       <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
     <Link>
@@ -103,7 +103,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\VulkanSDK\1.2.154.1\Include;C:\Users\Dracops\Documents\Visual Studio 2019\Libraries\glm;C:\Users\Dracops\Documents\Visual Studio 2019\Libraries\glfw-3.3.2.bin.WIN64\include;C:\Users\Dracops\Documents\Visual Studio 2019\Libraries\stb-master</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>%VULKAN_SDK%\Include;C:\Users\Dracops\Documents\Visual Studio 2019\Libraries\glm;C:\Users\Dracops\Documents\Visual Studio 2019\Libraries\glfw-3.3.2.bin.WIN64\include;C:\Users\Dracops\Documents\Visual Studio 2019\Libraries\stb-master</AdditionalIncludeDirectories>
       <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
     <Link>
@@ -121,7 +121,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\VulkanSDK\1.2.154.1\Include;C:\Users\Dracops\Documents\Visual Studio 2019\Libraries\glm;C:\Users\Dracops\Documents\Visual Studio 2019\Libraries\glfw-3.3.2.bin.WIN64\include;C:\Users\Dracops\Documents\Visual Studio 2019\Libraries\stb-master</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>%VULKAN_SDK%\Include;C:\Users\Dracops\Documents\Visual Studio 2019\Libraries\glm;C:\Users\Dracops\Documents\Visual Studio 2019\Libraries\glfw-3.3.2.bin.WIN64\include;C:\Users\Dracops\Documents\Visual Studio 2019\Libraries\stb-master</AdditionalIncludeDirectories>
       <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
     <Link>
@@ -141,7 +141,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\VulkanSDK\1.2.154.1\Include;C:\Users\Dracops\Documents\Visual Studio 2019\Libraries\glm;C:\Users\Dracops\Documents\Visual Studio 2019\Libraries\glfw-3.3.2.bin.WIN64\include;C:\Users\Dracops\Documents\Visual Studio 2019\Libraries\stb-master</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>%VULKAN_SDK%\Include;C:\Users\Dracops\Documents\Visual Studio 2019\Libraries\glm;C:\Users\Dracops\Documents\Visual Studio 2019\Libraries\glfw-3.3.2.bin.WIN64\include;C:\Users\Dracops\Documents\Visual Studio 2019\Libraries\stb-master</AdditionalIncludeDirectories>
       <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
     <Link>
